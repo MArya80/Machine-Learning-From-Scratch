@@ -1,4 +1,0 @@
-The gradient descent algorithm is a widely used optimization technique that is applied to a variety of machine learning problems, including linear regression, logistic regression, and neural networks. In this algorithm, a set of input values (X) and corresponding output values (Y) are used to train a model that can predict the output values for new input values. The goal is to iteratively update the model parameters in the direction of the negative gradient of the cost function, which measures the difference between the predicted and actual output values. By minimizing the cost function using the gradient descent algorithm, the model can be optimized to provide accurate predictions for new input values.
-\begin{equation}
-h_{\theta}(x) = (\sum_{i=1}^{n} \theta_i X_i)
-\end{equation}
